@@ -6,7 +6,7 @@
  *https://github.com/gabrield/libthingspeak
  */
 
-// BiTCH test command.
+// BiTCH test command!!!
 
 
 #include <stdio.h>
