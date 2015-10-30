@@ -38,7 +38,7 @@ int main(int argc, char** argv) {
         int value;
         scanf("%d",&value);
 	ts_set_value_i32(&data, value);
-	
+	//SHIT
 	//n=ts_http_post(ctx, HOST_API, "/update", "field1=21&field2=33"); for more than one data point
 	
 
