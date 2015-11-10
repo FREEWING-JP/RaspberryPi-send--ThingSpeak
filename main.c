@@ -1,7 +1,7 @@
 /* 
  * File:   main.c
  * Author: osc
- *
+ *Test1
  * Created on 13. oktober 2015, 15:05
  *https://github.com/gabrield/libthingspeak
  */
