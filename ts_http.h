@@ -15,7 +15,7 @@
 
 
 #define LISTENQ         1024
-#define HOST_API        "api.thingspeak.com"
+#define HOST_API        "192.168.112.102"//"api.thingspeak.com"
 
 extern int h_errno;
 

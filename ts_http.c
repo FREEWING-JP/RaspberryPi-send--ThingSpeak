@@ -30,7 +30,7 @@ ssize_t ts_http_post(ts_context_t *ctx, char *host, char *page, char *poststr)
     sockfd = socket(AF_INET, SOCK_STREAM, 0);
     bzero(&servaddr, sizeof(servaddr));
     servaddr.sin_family = AF_INET;
-    servaddr.sin_port = htons(80);
+    servaddr.sin_port = htons(3000); // CHANGED PORT.
     inet_pton(AF_INET, hstr, &servaddr.sin_addr);
     connect(sockfd, (SA *) & servaddr, sizeof(servaddr));
 
@@ -100,7 +100,7 @@ char *ts_http_get(char *host, char *page, char *buffer)
     sockfd = socket(AF_INET, SOCK_STREAM, 0);
     bzero(&servaddr, sizeof(servaddr));
     servaddr.sin_family = AF_INET;
-    servaddr.sin_port = htons(80);
+    servaddr.sin_port = htons(3000); // CHANGED PORT
     inet_pton(AF_INET, hstr, &servaddr.sin_addr);
     connect(sockfd, (SA *) & servaddr, sizeof(servaddr));
 

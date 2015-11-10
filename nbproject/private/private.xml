@@ -4,10 +4,16 @@
         <activeConfTypeElem>1</activeConfTypeElem>
         <activeConfIndexElem>0</activeConfIndexElem>
     </data>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/Documents/NetBeansProjects/ThingSpeak3/thingspeak.c</file>
-            <file>file:/D:/Documents/NetBeansProjects/ThingSpeak3/main2.c</file>
+            <file>file:/D:/Documents/NetBeansProjects/ThingSpeakSendData/ts_http.h</file>
+            <file>file:/D:/Documents/NetBeansProjects/ThingSpeakSendData/thingspeak.c</file>
+            <file>file:/D:/Documents/NetBeansProjects/ThingSpeakSendData/main.c</file>
+            <file>file:/D:/Documents/NetBeansProjects/ThingSpeakSendData/Makefile</file>
+            <file>file:/D:/Documents/NetBeansProjects/ThingSpeakSendData/thingspeak.h</file>
+            <file>file:/D:/Documents/NetBeansProjects/ThingSpeakSendData/ts_http.c</file>
+            <file>file:/D:/Documents/NetBeansProjects/ThingSpeakSendData/ts_time.c</file>
         </group>
     </open-files>
 </project-private>
